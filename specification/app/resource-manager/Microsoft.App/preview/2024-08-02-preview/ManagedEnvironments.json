@@ -1740,6 +1740,10 @@
                 "name": "PublicNetworkAccess",
                 "modelAsString": true
               }
+            },
+            "enableFips": {
+              "type": "boolean",
+              "description": "Whether to use a FIPS-enabled OS."
             }
           },
           "x-ms-client-flatten": true

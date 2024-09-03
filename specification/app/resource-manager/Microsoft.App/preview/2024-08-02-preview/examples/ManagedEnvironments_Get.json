@@ -70,7 +70,8 @@
             "encryption": {
               "enabled": true
             }
-          }
+          },
+          "enableFips": true
         }
       }
     }

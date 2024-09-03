@@ -104,7 +104,8 @@
           "encryption": {
             "enabled": true
           }
-        }
+        },
+        "enableFips": true
       }
     }
   },
@@ -209,7 +210,8 @@
             "mtls": {
               "enabled": true
             }
-          }
+          },
+          "enableFips": true
         }
       }
     },
@@ -312,7 +314,8 @@
             "mtls": {
               "enabled": true
             }
-          }
+          },
+          "enableFips": true
         }
       }
     }
